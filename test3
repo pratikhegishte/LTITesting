@@ -1,0 +1,4 @@
+package com.company;
+public void TC1(){
+System.out.println("hello");
+}
