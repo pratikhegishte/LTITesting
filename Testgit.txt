@@ -1,4 +1,6 @@
 package com.company;
 public class Lti(){
 System.out.println("test1");
-)
+@Test
+public void tc1(){}
+}
